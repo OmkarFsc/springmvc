@@ -1,0 +1,15 @@
+package com.springframework.SpringTelusko;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Car implements Vehicle {
+
+	private Tyre tyre;
+	
+	public void drive()
+	{
+		System.out.println("Omkar is driving a car");
+	}
+	
+}

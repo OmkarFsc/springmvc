@@ -1,0 +1,15 @@
+package com.Annot.SpringAnnot;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class AppConfig {
+	
+	@Autowired
+	public Samsung getPhone()
+	{
+		return new Samsung();
+	}
+
+}

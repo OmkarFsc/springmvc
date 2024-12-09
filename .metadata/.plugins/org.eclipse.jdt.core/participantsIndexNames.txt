@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+C:\Users\omkar\Desktop\SpringMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3291220685.index
+\EmpCRUD\src\main\resources
+C:\Users\omkar\Desktop\SpringMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\249207788.index
+\EmpCRUD\src\main\java

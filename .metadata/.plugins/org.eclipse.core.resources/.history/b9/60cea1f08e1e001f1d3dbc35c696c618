@@ -1,0 +1,7 @@
+package com.springframework.SpringTelusko;
+
+public class Tyre {
+	
+	private String Brand;
+
+}

@@ -1,0 +1,10 @@
+package com.springframework.SpringTelusko;
+
+public class Bike {
+
+	public void drive()
+	{
+		System.out.println("I am riding bike");
+	}
+	
+}

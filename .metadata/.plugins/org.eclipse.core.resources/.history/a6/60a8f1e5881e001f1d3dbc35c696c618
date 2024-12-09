@@ -1,0 +1,10 @@
+package com.springframework.SpringTelusko;
+
+public class App 
+{
+    public static void main( String[] args )
+    {
+       Vehicle obj=new Car();
+       obj.drive();
+    }
+}

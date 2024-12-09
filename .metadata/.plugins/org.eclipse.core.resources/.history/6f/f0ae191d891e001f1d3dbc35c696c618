@@ -1,0 +1,14 @@
+package com.springframework.SpringTelusko;
+
+import org.springframework.beans.factory.BeanFactory;
+
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	
+    	
+       Vehicle obj=new Car();
+       obj.drive();
+    }
+}

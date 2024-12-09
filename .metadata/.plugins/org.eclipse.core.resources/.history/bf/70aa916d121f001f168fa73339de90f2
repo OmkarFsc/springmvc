@@ -1,0 +1,10 @@
+package com.Annot.SpringAnnot;
+
+public class Samsung {
+
+	public void sconfig()
+	{
+		
+	}
+	
+}

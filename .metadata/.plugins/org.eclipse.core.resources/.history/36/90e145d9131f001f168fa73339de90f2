@@ -1,0 +1,12 @@
+package com.Annot.SpringAnnot;
+
+public class Samsung {
+
+	private String message;
+	
+	public void sconfig()
+	{
+		System.out.println("4GB Ram, 12MP Camera");
+	}
+	
+}
